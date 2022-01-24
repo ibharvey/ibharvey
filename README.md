@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibharvey
-- 👀 I’m interested in making sense of large NGS datasets to inform immunological questions.
+- 👀 I’m interested in understanding molecular mechanisms through biochemistry and making sense of large NGS datasets to inform immunological questions.
 - 🌱 In my free time, I'm learning more about tensorflow/neuralnets. 
 
 <!---
